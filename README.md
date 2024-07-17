@@ -22,7 +22,7 @@ This is a fashion mobile app built on top of React Native/Expo. It supports both
 
 Check out this video to see a sample of the app in action:
 
-[![Watch the video](./Sample.mp4)
+[![Watch the video](./sample.gif)
 
 ## Getting Started
 
