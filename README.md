@@ -2,6 +2,8 @@
 
 This is a fashion mobile app built on top of React Native/Expo. It supports both Android and iOS platforms.
 
+![Watch the video](./sample.gif)
+
 ## Features
 
 - **Built with Expo SDK 49.0.10**
@@ -18,11 +20,6 @@ This is a fashion mobile app built on top of React Native/Expo. It supports both
 - **Image preloading**
 - **Redux and Redux Persist**: Products added to the cart or wishlist are not deleted when the app is closed
 
-## Video Demo
-
-Check out this video to see a sample of the app in action:
-
-[![Watch the video](./sample.gif)
 
 ## Getting Started
 
