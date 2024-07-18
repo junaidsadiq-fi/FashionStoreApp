@@ -46,7 +46,7 @@ Follow these instructions to set up the app on your local machine.
 
 3. Start the development server:
     ```bash
-    expo start
+    npm start
     ```
 
 ## Folder Structure
